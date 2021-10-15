@@ -12,7 +12,9 @@ public class calculator {
 		this.principal = new BigDecimal("1000");
 		this.rate = new BigDecimal("1.5");
 		this.year = new BigDecimal("2");
+		this.new = new Bigdecimal("5.5")
 		}
+	
 	
 	public BigDecimal value() {
 		
