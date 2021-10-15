@@ -1,8 +1,8 @@
 # Java-interestcalculator
+
+
 interest calculator
 package interestCalculator;
-
-
 import java.math.BigDecimal;
 public class calculator {
 	
